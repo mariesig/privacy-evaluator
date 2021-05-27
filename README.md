@@ -14,6 +14,7 @@ The privML Privacy Evaluator is a tool that assesses ML model's levels of privac
 If you want to contribute in any way, please visit our [Contribution Guidelines](https://github.com/privML/privacy-evaluator/CONTRIBUTING.md) to get started.
 
 ## Communication
+This is just to try out GIT for Marie.
 
 ### Who is behind the project?
 See a list of our [Supporters]().
