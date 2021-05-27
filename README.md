@@ -15,6 +15,7 @@ If you want to contribute in any way, please visit our [Contribution Guidelines]
 
 ## Communication
 This is just to try out GIT for Marie.
+And another test for branching.
 
 ### Who is behind the project?
 See a list of our [Supporters]().
